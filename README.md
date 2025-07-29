@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch
+# ⏱️ Stop Watch
 
 A simple and elegant stopwatch built with HTML, Tailwind CSS and JavaScript. Track time in hours, minutes, seconds, and milliseconds with smooth UI and responsive layout.
 
